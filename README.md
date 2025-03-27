@@ -1,6 +1,6 @@
 # Conky-Theme
 A nice and aesthetic conky theme ;)
-
+> This theme is only for screens with a resolution of 1080x720 px.
 #
 
 <p align="center">
@@ -14,6 +14,8 @@ A nice and aesthetic conky theme ;)
     <br />
   </p>
 </p>
+
+<img src="https://github.com/Yisusdev2005/Conky-Theme/blob/main/486250506_1149384040204431_1789737642810540295_n.jpg" width="100%"/>
 
 > I was inspired by some of the themes I saw
 
@@ -42,3 +44,5 @@ Terminal=false</pre>
 
 <pre>conky <span class="token parameter variable">-c</span> ~/.config/conky/tema1.conf  <span class="token comment"># Only system</span>
 conky <span class="token parameter variable">-c</span> ~/.config/conky/tema2.conf  <span class="token comment"># Only music</span></pre>
+
+> I hope my customized theme caught your attention ;)
