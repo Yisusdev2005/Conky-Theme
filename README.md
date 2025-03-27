@@ -42,7 +42,7 @@ Terminal=false</pre>
 
 - Finally, test by entering each theme separately in the terminal to make sure they work correctly:
 
-<pre>conky <span class="token parameter variable">-c</span> ~/.config/conky/tema1.conf  <span class="token comment"># Only system</span>
-conky <span class="token parameter variable">-c</span> ~/.config/conky/tema2.conf  <span class="token comment"># Only music</span></pre>
+<pre>conky <span class="token parameter variable">-c</span> ~/.conky/conky-theme1.conf  <span class="token comment"># Only system</span>
+conky <span class="token parameter variable">-c</span> ~/.conky/conky-theme2.conf  <span class="token comment"># Only music</span></pre>
 
 > I hope my customized theme caught your attention ;)
