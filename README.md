@@ -10,7 +10,7 @@ A nice and aesthetic conky theme ;)
   <p align="center">
   Another Conky Theme
     <br />
-    <a href="#"><strong>Install</strong></a>
+    <a href="https://github.com/Yisusdev2005/Conky-Theme/releases/download/conky-theme/conky-theme.tar.gz"><strong>Install</strong></a>
     <br />
   </p>
 </p>
