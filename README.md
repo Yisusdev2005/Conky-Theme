@@ -47,4 +47,6 @@ Terminal=false</pre>
 <pre>conky <span class="token parameter variable">-c</span> ~/.conky/conky-theme1.conf  <span class="token comment"># Only system</span>
 conky <span class="token parameter variable">-c</span> ~/.conky/conky-theme2.conf  <span class="token comment"># Only music</span></pre>
 
+- As a last step just log off or restart your computer.
+
 > I hope my customized theme caught your attention ;)
