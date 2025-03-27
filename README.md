@@ -22,7 +22,9 @@ A nice and aesthetic conky theme ;)
 # How can I add it to my desktop?
 First things first, you must follow these simple steps:
 
-- First download both themes, then create a folder called <code>.conky</code> in your <code>home</code> directory.
+- First download both themes, then create a folder called <code>.conky</code> in your <code>home</code> directory and paste the themes there.
+
+- Download the fonts so that conky does not load the themes properly.
 
 - Use the autostart directory and create a <code>.desktop</code> file at <code>~/.config/autostart/</code>:
 
