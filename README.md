@@ -15,7 +15,7 @@ A nice and aesthetic conky theme ;)
   </p>
 </p>
 
-<img src="https://github.com/Yisusdev2005/Conky-Theme/blob/main/486250506_1149384040204431_1789737642810540295_n.jpg" width="100%"/>
+<img src="https://github.com/Yisusdev2005/Conky-Theme/blob/main/Desktop.png" width="100%"/>
 
 > I was inspired by some of the themes I saw
 
